@@ -42,7 +42,7 @@ Para executar o projeto **WeatherViewer**, siga os passos abaixo:
 
 2.  **Clonar o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/AnaFlaviaRosa/weather-viewer-app.git
     ```
 
 3.  **Abrir no Android Studio:**
